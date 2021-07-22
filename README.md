@@ -1,2 +1,10 @@
-# EZDex
-Token Source
+# EZDex Token
+EZDex is a decentralized financial exchange, covering the advantages of DeFi decentralized and decentralized exchanges, standing in the decentralized financial ecology, and it is like a broken bamboo.
+ EZDex development team united with community development forces to deeply cultivate the underlying technology, and through the value transfer protocol ("Value Transfer Protocol"), proposed and implemented a series of technological upgrades and innovative solutions. Build a sustainable public blockchain blockchain
+EZDex has three advantages.
+Advantage 1: Community fission,EZDex has a massive user base, including global communities, Asian communities, Chinese communities and communities on other continents. The accumulation of massive users is the foundation of EZDex 
+Advantage 2: DeFi decentralized finance Pledge mining, computing power mining, liquidity mining, aggregation protocol, NFT minting, financial derivatives, and contract transactions are all available.
+Advantage 3: EZDex is an exchange The wallet is your exchange, the strong capital pool transaction is fast and zero time difference, while having the decentralized security and centralization convenience.
+EZDex perfectly combines the advantages of Bitcoin and Ethereum, and solves the inherent shortcomings of the existing blockchain system. EZDex will continue to build a basic platform, as well as the development and iteration of the development and commercialization of various products, and gradually form a blockchain economy, improve industry efficiency, and promote the efficient and coordinated development of society.
+In addition, EZDex builds a 100% open source decentralized Dapp. The smart contract accepts transaction requests and events from the Dapp, and manipulates the state in the blockchain ledger by triggering the code logic written in advance. Dapp implements business logic by calling the interface provided by the smart contract. The smart contract encapsulates the process of direct interaction with the blockchain ledger, and supports the upper-level business logic
+In order to integrate a consensus ecology for EZDex, and lay out the "blockchain technology + token economy" head track, based on "blockchain + industrial services", A comprehensive service platform integrating blockchain technology, traffic, certificates, and decentralized finance will be gradually built.
